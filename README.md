@@ -1,2 +1,2 @@
 # python_test
-This is a test
+This is an example project to demonstrate the use of git in Ubuntu
