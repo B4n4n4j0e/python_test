@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
-def main(msg):
+def main(msg)
+	#Adding the second comment"
     print(msg)
+
 main("hello world")
